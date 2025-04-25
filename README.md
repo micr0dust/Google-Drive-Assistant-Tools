@@ -16,7 +16,7 @@
 
 你可以開啟或下載我提供的版本，複製一份到你的雲端，開啟後將網頁設成瀏覽器書籤方便日後使用。
 
-[![Google_下載](https://img.shields.io/badge/下載-Google_Drive-blue?logo=googlecloud)](https://drive.google.com/drive/u/7/folders/1ERL1AWtL6KBgn7I73PpYRESnCWfnA5SC)
+[![Google_下載](https://img.shields.io/badge/下載-Google_Drive-blue?logo=googledrive)](https://drive.google.com/drive/u/7/folders/1ERL1AWtL6KBgn7I73PpYRESnCWfnA5SC)
 
 ## 使用提醒
 
